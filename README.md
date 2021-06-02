@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asim
 - 👀 Mostly interested in IoT, Web Developmenet and Cyber Security
-- 🌱 Currently learning AngularJS
+- 🌱 Currently learning everything that excites me related to technology
 - 💞️ Always looking to collaborate on challenging projects
 - 📫 Reach me at asim.ejaz14@gmail.com
 <!---
