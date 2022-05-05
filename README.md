@@ -1,4 +1,4 @@
-# Full Stack Sr. Software Engineer (Python/Django & Angular)
+# Sr. Full Stack Software Engineer (Python/Django & Angular)
 
 - 👋 Hi, I’m Asim
 - 👀 Mostly interested in IoT, Web Developmenet and Cyber Security
