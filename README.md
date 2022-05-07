@@ -24,8 +24,9 @@
   
   
 ## Tools
- - PyCharm
- - VSCode
+ - PyCharm | VSCode
+ - Jira
+ - Github | Gitlab
  - MongoDB Compass
  - Azure CLI
  - Notion
@@ -36,21 +37,7 @@
 
 <img src="https://github.com/asimejaz14/stack/blob/main/compas.png" alt="compass" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/teams.png" alt="teams" style="height: 100px; width:150px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/notion.png" alt="notion" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/postman.png" alt="postman" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/pycharm.png" alt="pycharm" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/vscode.png" alt="vscode" style="height: 100px; width:110px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/discord.png" alt="discord" style="height: 80px; width:112px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/github.png" alt="github" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/jira.png" alt="jira" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/gitlab.webp" alt="gitlab" style="height: 100px; width:110px;"/>
 
-```mermaid
-graph LR
-A[Tools]-->B((PyCharm & VSCode))
-A[Tools]-->C((Azure))
-C((Azure)) --> J((Azure CLI))
-C((Azure)) --> K((Azure IoT Hub))
-C((Azure)) --> L((Azure Storages))
-C((Azure)) --> M((Azure Functions))
 
-
-A[Tools]-->D((Postman))
-A[Tools]-->E((MongoDB Compass))
-A[Tools]-->G((Notion))
-A[Tools]-->I((MS Teams))
-```
 
 <!---
 asimejaz14/asimejaz14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
