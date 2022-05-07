@@ -1,13 +1,10 @@
 
 
+
+
 # Sr. Full Stack Software Engineer (Python/Django & Angular)
 
-- 👋 Hi, I’m Asim
-- 👀 Mostly interested in IoT, Web Developmenet and Cyber Security
-- 🌱 Currently learning everything that excites me related to technology
-- 💞️ Always looking to collaborate on challenging projects
-- 📫 Reach me at asim.ejaz14@gmail.com
-
+Hi I'm Asim 👋. A freelancer, full time developer and occasionally a gamer. Working in Software Development with 4+ years of experience. Mostly working on IoT based Real Time web apps. Learning everyday and ready to dive into new technologies with challenging problems. Looking someone for collaboration, look no more!
 
 
 ## Tech Stack
@@ -35,6 +32,16 @@
 
 <img src="https://github.com/asimejaz14/stack/blob/main/compas.png" alt="compass" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/teams.png" alt="teams" style="height: 100px; width:150px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/notion.png" alt="notion" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/postman.png" alt="postman" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/pycharm.png" alt="pycharm" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/vscode.png" alt="vscode" style="height: 100px; width:110px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/discord.png" alt="discord" style="height: 80px; width:112px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/github.png" alt="github" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/jira.png" alt="jira" style="height: 100px; width:100px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/asimejaz14/stack/blob/main/gitlab.webp" alt="gitlab" style="height: 100px; width:110px;"/>
 
+
+## Contact Me
+
+<img src="https://github.com/asimejaz14/stack/blob/main/whatsapp.webp" alt="whatsapp" style="height: 15px; width:15px;"/> +92-333-3998028
+
+<img src="https://github.com/asimejaz14/stack/blob/main/gmail.webp" alt="gmail" style="height: 15px; width:15px;"/> asim.ejaz14@gmail.com
+
+<img src="https://github.com/asimejaz14/stack/blob/main/upwork.png" alt="upwork" style="height: 15px; width:15px;"/> [Hire me on Upwork](https://www.upwork.com/freelancers/~01b6767688075b1f58)
+
+<img src="https://github.com/asimejaz14/stack/blob/main/linkedin.png" alt="linkedin" style="height: 15px; width:15px;"/> [Asim Ejaz](https://www.linkedin.com/in/asimejaz/)
 
 
 <!---
