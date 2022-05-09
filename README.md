@@ -5,7 +5,7 @@
 
 # Sr. Full Stack Software Engineer (Python/Django & Angular)
 
-Hi I'm Asim 👋. A freelancer, full time developer and occasionally a gamer. Working in Software Development with 4+ years of experience. Mostly working on IoT based Real Time web apps. Learning everyday and ready to dive into new technologies with challenging problems. Looking someone for collaboration, look no more!
+Hi I'm Asim 👋. A freelancer, full time developer and occasionally a gamer. Working in Software Development with 4+ years of experience. Mostly working on IoT based Real Time web apps. Learning everyday and ready to dive into new technologies with challenging problems. Looking someone for collaboration? look no more, leave a message!
 
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook1.png (Facebook))][1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram1.png (Instagram))][2]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
