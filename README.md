@@ -47,7 +47,7 @@ Hi I'm Asim 👋. A freelancer, full time developer and occasionally a gamer. Wo
 
 
 
-Hire me on [Upwork](https://www.upwork.com/freelancers/~01b6767688075b1f58)
+[Hire me](https://www.upwork.com/freelancers/~01b6767688075b1f58) on Upwork
 <br><br><img src="https://github.com/asimejaz14/stack/blob/main/upwork.png" alt="upwork" style="height: 50px; width:50px;"/>
 
 
