@@ -3,7 +3,7 @@
 
 
 
-# Sr. Full Stack Software Engineer (Python/Django & Angular)
+# Sr. Full Stack Software Engineer (Python/Django & Go)
 
 A freelancer, full time developer and occasionally a gamer. Working in Software Development with 4+ years of experience. Mostly working on IoT based Real Time web apps. Learning everyday and ready to dive into new technologies with challenging problems. Looking someone for collaboration? Leave a message!
 
